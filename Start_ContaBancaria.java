@@ -1,5 +1,8 @@
 package Aplication;
 
+//Desenvolvedor:João Wellington Nunes da Rocha 
+//Github: https://github.com/wellzfps/ContaBancaria
+
 import java.util.Scanner;
 
 import Entities.ContaBancaria;
