@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class ContaBancaria {
 	private String donoConta;
 	private int numeroConta ;
-	private double depositarInicial;
 	private static final int taxa = 5;
 	private double saldo;
 	
@@ -14,7 +13,6 @@ public class ContaBancaria {
 		this.donoConta = donoConta;
 		this.numeroConta = numeroConta;
 		this.saldo = 0;
-		this.depositarInicial = 0;
 	}
 
 
